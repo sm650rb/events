@@ -1,0 +1,21 @@
+{
+  "date": "2013-02-14",
+  "name": "Valentine's Day",
+  "cover_picture": "https://picsum.photos/400/300?random=1",
+  "description": "Valentine's Day is a time to celebrate romance and love and kissy-face fealty. But the origins of this festival of candy and cupids are actually dark, bloody — and a bit muddled.",
+  "type": "public",
+  "location": "somewhere",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "someone",
+  "coordinator": "someone",
+  "gallery": [
+    "https://picsum.photos/400/300?random=1",
+    "https://picsum.photos/400/300?random=2",
+    "https://picsum.photos/400/300?random=3",
+    "https://picsum.photos/400/300?random=4",
+    "https://picsum.photos/400/300?random=5",
+    "https://picsum.photos/400/300?random=6"
+  ]
+}

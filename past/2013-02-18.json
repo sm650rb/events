@@ -1,0 +1,21 @@
+{
+  "date": "2013-02-18",
+  "name": "Presidents' Day",
+  "cover_picture": "https://picsum.photos/400/300?random=1",
+  "description": "Presidents' Day is a federal holiday in the United States celebrated on the third Monday of February in honor of George Washington, the first President of the United States, who was born on February 22, 1732. The holiday is popularly recognized as also honoring Abraham Lincoln, and sometimes all the U.S. presidents.",
+  "type": "public",
+  "location": "somewhere",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "someone",
+  "coordinator": "someone",
+  "gallery": [
+    "https://picsum.photos/400/300?random=1",
+    "https://picsum.photos/400/300?random=2",
+    "https://picsum.photos/400/300?random=3",
+    "https://picsum.photos/400/300?random=4",
+    "https://picsum.photos/400/300?random=5",
+    "https://picsum.photos/400/300?random=6"
+  ]
+}

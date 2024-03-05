@@ -1,0 +1,21 @@
+{
+  "date": "2013-01-01",
+  "name": "New Year's Day",
+  "cover_picture": "https://picsum.photos/400/300?random=1",
+  "description": "New Year's Day is a public holiday in all countries that observe the Gregorian calendar, with the exception",
+  "type": "public",
+  "location": "somewhere",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "someone",
+  "coordinator": "someone",
+  "gallery": [
+    "https://picsum.photos/400/300?random=1",
+    "https://picsum.photos/400/300?random=2",
+    "https://picsum.photos/400/300?random=3",
+    "https://picsum.photos/400/300?random=4",
+    "https://picsum.photos/400/300?random=5",
+    "https://picsum.photos/400/300?random=6"
+  ]
+}
