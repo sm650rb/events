@@ -2,41 +2,41 @@
   "events": {
     "past": [
       {
-        "date": "2023-03-08",
-        "name": "Holi",
-        "cover_picture": "https://picsum.photos/400/300?random=2"
+        "date": "2024-02-25",
+        "name": "Thimmappana Betta - Tumkur",
+        "cover_picture": "https://lh3.googleusercontent.com/d/13l1EosQVouGIsWgMBreqQ1QsLF7_1dnd"
       },
       {
-        "date": "2023-04-22",
-        "name": "Eid al-Fitr",
-        "cover_picture": "https://picsum.photos/400/300?random=4"
+        "date": "2024-02-10",
+        "name": "Penukonda Fort Ruins",
+        "cover_picture": "https://lh3.googleusercontent.com/d/12Wsa7uaNvePOuMsA48fLlpxXhmECp456"
       },
       {
-        "date": "2023-09-19",
-        "name": "Ganesh Chaturthi",
-        "cover_picture": "https://picsum.photos/400/300?random=3"
+        "date": "2024-01-26",
+        "name": "Ooty - The Queen of Hill Stations",
+        "cover_picture": "https://lh3.googleusercontent.com/d/12fdwIAIao6tDP-T4ZwBAElgkoLlHtzfm"
       },
       {
-        "date": "2023-10-14",
-        "name": "Navratri",
-        "cover_picture": "https://picsum.photos/400/300?random=3"
+        "date": "2024-01-13",
+        "name": "Devarayanadurga - Tumkur",
+        "cover_picture": "https://lh3.googleusercontent.com/d/117uqIH2OrOQ7Xq7oauqQQPyKPAf_Mgjr"
       },
       {
-        "date": "2023-11-12",
-        "name": "Diwali",
-        "cover_picture": "https://picsum.photos/400/300?random=1"
+        "date": "2023-12-23",
+        "name": "Davanagere Benne Dosa Festival",
+        "cover_picture": "https://lh3.googleusercontent.com/d/1-vRBgHnfmEgVWXlRmpX5ViSMqEdmp6-U"
       },
       {
-        "date": "2023-12-25",
-        "name": "Christmas",
-        "cover_picture": "https://picsum.photos/400/300?random=2"
+        "date": "2023-12-03",
+        "name": "Murugan Idly - Krishnagiri",
+        "cover_picture": "https://lh3.googleusercontent.com/d/1-LzXBrkz-_jW8t86EmLrVuxIYBILq1as"
       }
     ],
     "future": [
       {
         "date": "2024-03-26",
         "name": "Holi",
-        "cover_picture": "https://picsum.photos/400/300?random=5"
+        "cover_picture": "https://lh3.googleusercontent.com/d/"
       }
     ]
   }
