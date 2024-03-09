@@ -1,0 +1,20 @@
+{
+  "date": "2023-12-03",
+  "name": "Krishnagiri",
+  "cover_picture": "https://drive.google.com/uc?export=view&id=1-LzXBrkz-_jW8t86EmLrVuxIYBILq1as",
+  "description": "The festival of colors, Holi marks the arrival of spring. People throw colored powders and water at each other, dance, and celebrate with traditional sweets like gujiya and thandai.",
+  "type": "public",
+  "location": "somewhere",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "someone",
+  "coordinator": "someone",
+  "gallery": [
+    "https://drive.google.com/uc?export=view&id=1-LzXBrkz-_jW8t86EmLrVuxIYBILq1as",
+    "https://drive.google.com/uc?export=view&id=1-AUHWIV_PQnA50YE1zvMdMjDsLph0UBw",
+    "https://drive.google.com/uc?export=view&id=1-AQYfeGRn0QaFD7QO9RFBZ3S8sQDjqGl",
+    "https://drive.google.com/uc?export=view&id=1-EKGrDKHNa1G_lDZj9xQy7R3H78Td6sa",
+    "https://drive.google.com/uc?export=view&id=1-I3aDfb-bdxNKQ3CKKDpsvh-NmInnZVs"
+  ]
+}
