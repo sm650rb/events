@@ -1,0 +1,19 @@
+{
+  "date": "2024-05-25",
+  "name": "Lepakshi - Andhra Pradesh",
+  "cover_picture": "https://lh3.googleusercontent.com/d/10SAZkxs7xY9MCiBvTtCYR7rT8yLm6tF1",
+  "description": "Lepakshi is a ",
+  "type": "public",
+  "location": "Tumkur, Karnataka, India",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "someone",
+  "coordinator": "someone",
+  "gallery": [
+    "https://lh3.googleusercontent.com/d/10SAZkxs7xY9MCiBvTtCYR7rT8yLm6tF1",
+    "https://lh3.googleusercontent.com//d/10MldvEzyYmXijK3ff1OpmEks3dzl2t2I",
+    "https://lh3.googleusercontent.com//d/10SgonFt55kIVJMSkzhFfCruMJkPblJ_K",
+    "https://lh3.googleusercontent.com//d/10TWtiBe2GUUXdRhiam84NIIfp2T-4YsC"
+  ]
+}
