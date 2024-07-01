@@ -1,0 +1,19 @@
+{
+  "date": "2024-05-18",
+  "name": "BTP Training - Bangalore",
+  "cover_picture": "https://lh3.googleusercontent.com/d/1018bDvYKtnYy7t_QF2d0tpNKSnasPGue",
+  "description": "BTP Training - Bangalore",
+  "type": "public",
+  "location": "Tumkur, Karnataka, India",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "someone",
+  "coordinator": "someone",
+  "gallery": [
+    "https://lh3.googleusercontent.com/d/1018bDvYKtnYy7t_QF2d0tpNKSnasPGue",
+    "https://lh3.googleusercontent.com/d/100Hf3O1BsbbAhO4B4ikWrqpUSogfxzKK",
+    "https://lh3.googleusercontent.com/d/106__vsb9I9yoOQZ3G935L8VxjM6mR1w6",
+    "https://lh3.googleusercontent.com/d/1-zfJv3gT1L5LLwHR2aZPAwbiiB2uVl41"
+  ]
+}
