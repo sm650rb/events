@@ -1,0 +1,21 @@
+{
+  "date": "2024-09-14",
+  "name": "Coorg Ride",
+  "cover_picture": "https://lh3.googleusercontent.com/d/1Ww-1JygrHN5IGxxs-3-8aeVRfaCpNkSD",
+  "description": "Coorg: A biker’s haven with winding roads, misty hills, and lush coffee plantations, perfect for an adventurous ride",
+  "type": "public",
+  "location": "Coorg, Karnataka, India",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "Nitin",
+  "coordinator": "Kiran",
+  "gallery": [
+    "https://lh3.googleusercontent.com/d/1VBj03u3xpiYO3t4hx7YC-6bXKFEkWOFn",
+    "https://lh3.googleusercontent.com/d/1VQ65LIm061Kfy-r6Sq7pkrR954JS2YMY",
+    "https://lh3.googleusercontent.com/d/1Vt5XgkH8zp-LwTeQzwTP_a_48Dsh8Qe8",
+    "https://lh3.googleusercontent.com/d/1W6ZGy3syBXv1n1RNerwTtAC7T87Sn13a",
+    "https://lh3.googleusercontent.com/d/1WDGjzYNB4KdUTr0olLzmp9aLdHTLIJDb",
+    "https://lh3.googleusercontent.com/d/1Wi0h910bFGEyelEv4UuddHd7RBJ0w2rb"
+	   ]
+}
