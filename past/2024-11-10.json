@@ -1,0 +1,17 @@
+Anniversary
+{
+  "date": "2024-11-10",
+  "name": "1st Anniversary Celebration ",
+  "cover_picture": "https://lh3.googleusercontent.com/d/1wWP-r6x3rAZnZjYzHGQsH6wc5kPi0eNI",
+  "description": "Gandikota: The 'Grand Canyon of India,' offering bikers thrilling rides through rugged terrain, stunning gorges, and historic forts",
+  "type": "public",
+  "location": "Bengaluru, Karnataka, India",
+  "country": "India",
+  "status": "active",
+  "deleted_at": null,
+  "created_by": "Nitin",
+  "coordinator": "RB Crew",
+  "gallery": [
+    "https://lh3.googleusercontent.com/d/1wWP-r6x3rAZnZjYzHGQsH6wc5kPi0eNI"
+   ]
+}
