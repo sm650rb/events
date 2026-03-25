@@ -1,6 +1,36 @@
 {
   "events": {
     "past": [
+		{
+	    "date": "2025-12-20",
+  		"name": "Meghamalai",
+  		"cover_picture": "https://lh3.googleusercontent.com/d/1B7TsWWhVr57Y1fCYRXq7mkgmzFI4rIds"
+        },			
+        {
+	    "date": "2025-10-10",
+  		"name": "Valparai",
+  		"cover_picture": "https://lh3.googleusercontent.com/d/1xECXo4Np3eXTzxNpi8tKLzFgtFZUJ_W-"
+        },	
+		{
+	    "date": "2025-08-31",
+  		"name": "Thimmappana Betta",
+  		"cover_picture": "https://lh3.googleusercontent.com/d/3NBHMciZaMz4Dz1ae3dv5CNR751wpwcp"
+        },		
+        {
+	    "date": "2025-07-25",
+  		"name": "Devarayanadurga Hills",
+  		"cover_picture": "https://lh3.googleusercontent.com/d/11Nv7uvPNxTr7WUDspPXcAGjUoak5t7q7"
+        },
+		{
+	    "date": "2025-07-04",
+  		"name": "Leh-2025",
+  		"cover_picture": "https://lh3.googleusercontent.com/d/1PI4ank1wQUDMU9PXv909Sr6Dw9M7gEra"
+        },
+		{
+	    "date": "2025-01-25",
+  		"name": "BR Hills",
+  		"cover_picture": "https://lh3.googleusercontent.com/d/1MV6Hn-OYEgBqFtFaHGmd6RL7NB5TPzC-"
+       },
        {
 	    "date": "2025-01-05",
   		"name": "Konapura",
